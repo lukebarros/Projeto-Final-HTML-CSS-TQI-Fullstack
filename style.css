@@ -27,6 +27,10 @@ body {
     font-weight: bold;
 }
 
+.p3 {
+    text-align: justify;
+}
+
 h1 {
     text-transform: uppercase;
     letter-spacing: 4px;
