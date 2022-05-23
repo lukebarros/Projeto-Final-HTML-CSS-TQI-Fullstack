@@ -311,6 +311,9 @@ h2 {
     background-image: url(img/mp4-6.gif);
 }
 
+.card-container:nth-child(1) > .card-text {
+    text-align: right;
+}
 /* FOOTER */
 .footer {
     font-family: helvetica;
